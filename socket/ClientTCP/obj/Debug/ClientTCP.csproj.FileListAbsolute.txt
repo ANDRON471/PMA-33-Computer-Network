@@ -1,0 +1,7 @@
+C:\Users\Andron\source\repos\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\Andron\source\repos\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\Andron\source\repos\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\Andron\source\repos\ClientTCP\obj\Debug\ClientTCP.csproj.AssemblyReference.cache
+C:\Users\Andron\source\repos\ClientTCP\obj\Debug\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\Andron\source\repos\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\Andron\source\repos\ClientTCP\obj\Debug\ClientTCP.pdb
